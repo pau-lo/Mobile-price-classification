@@ -1,7 +1,7 @@
-project_name
+Mobile price classification
 ==============================
 
-A short description of the project.
+Using autosklearn to predict mobile phone prices.
 
 Project Organization
 ------------
